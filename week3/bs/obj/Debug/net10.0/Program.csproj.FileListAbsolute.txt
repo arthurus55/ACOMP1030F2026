@@ -1,0 +1,4 @@
+C:\Users\arthu\OneDrive\Documents\COMP1030F2026\Program\Program\obj\Debug\net10.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Documents\COMP1030F2026\Program\Program\obj\Debug\net10.0\Program.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Documents\COMP1030F2026\Program\Program\obj\Debug\net10.0\Program.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Documents\COMP1030F2026\Program\Program\obj\Debug\net10.0\Program.csproj.CoreCompileInputs.cache
